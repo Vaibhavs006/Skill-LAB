@@ -136,7 +136,8 @@ source ~/.bashrc
 ### Verify Installation
 
 ```bash
-ros2 --version
+echo $ROS_DISTRO
+
 ```
 
 Expected output:
