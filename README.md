@@ -244,6 +244,7 @@ This guide explains how to install and run ROS 2 Jazzy on macOS (Apple Silicon/M
 ## Step 1: Install Docker
 
 Download and install Docker Desktop for Apple Silicon (M-series Macs) from Docker's official website.
+https://www.docker.com
 
 ---
 
@@ -279,12 +280,6 @@ List all available Docker images.
 
 ```bash
 docker images
-```
-
-You should see:
-
-```bash
-ros    jazzy-ros-core
 ```
 
 ---
@@ -372,7 +367,7 @@ ROS GUI applications such as Turtlesim require an X11 display server.
 ## Step 1: Install XQuartz
 
 Download and install XQuartz.
-
+https://www.xquartz.org/?utm_source=chatgpt.com
 After installation, restart your Mac if required.
 
 ---
