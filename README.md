@@ -19,7 +19,7 @@ Before you begin, make sure you have:
 - At least **4 GB RAM** and **15 GB free disk space**
 - A stable internet connection
 - **Windows Terminal** — install it from the [Microsoft Store](https://aka.ms/terminal) *(highly recommended)*
-
+-  VS code 
 ---
 
 ## Step 0 — Install WSL2 & Ubuntu 22.04
@@ -616,6 +616,8 @@ colcon build --parallel-workers 1
 | Build (low memory) | `colcon build --parallel-workers 1` |
 
 ---
+
+
 
 
 ## References
