@@ -84,8 +84,8 @@ export LANG=en_US.UTF-8
 ## Step 2 — Run the setup.sh 
 
 Download the repository:
-```bash
-git clone https://github.com/Vaibhavsgit clone https://github.com/Vaibhavs
+```bash[
+https://github.com/Vaibhavs006/Skill-LAB.git
 ```
 Navigate into the repository directory:
 ```bash
