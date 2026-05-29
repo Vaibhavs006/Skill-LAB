@@ -65,3 +65,10 @@ def main(args=None):
 
 if __name__ == '__main__':
     main()
+
+# package.xml dependencies  
+#        <depend>rclpy</depend>
+#        <depend>geometry_msgs</depend>
+#        <depend>turtlesim</depend>
+
+# setup.py add to console scripts    chaser = <package name>.turtle_chaser_node:main
