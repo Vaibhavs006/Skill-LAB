@@ -85,7 +85,7 @@ export LANG=en_US.UTF-8
 
 Download the repository:
 ```bash[
-https://github.com/Vaibhavs006/Skill-LAB.git
+ git clone https://github.com/Vaibhavs006/Skill-LAB.git
 ```
 Navigate into the repository directory:
 ```bash
